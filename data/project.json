@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "JMU-AudiAnnotate",
+    "is_private": false,
+    "title": "Rita Dove Interview, 9/24/2004 (FF019-3)",
+    "description": "Rita Dove and Camille Dungy discuss Dove's new book American Smooth (2004), before moving into a broader discussion of her work and life.",
+    "language": "en",
+    "slug": "FF001903",
+    "creator": "JMU-AudiAnnotate",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": false,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-05-14T19:07:05.505Z",
+    "updated_at": "2025-05-14T19:07:05.505Z"
   }
 }
