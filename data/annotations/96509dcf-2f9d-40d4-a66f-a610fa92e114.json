@@ -1,5 +1,4437 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "uuid": "94d23409-ed7e-4d0d-a265-874d2a5fe8da",
+      "start_time": 8.7,
+      "end_time": 12.27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Dove. R-i-t-a, D-o-v-e."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "e8cb362a-3562-4327-865a-f86e8e73c66b",
+      "start_time": 17.97,
+      "end_time": 18.96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, good afternoon."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "59253f2d-d4d3-4930-9803-46f2e860aecb",
+      "start_time": 18.99,
+      "end_time": 19.8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Good afternoon."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "6675e7af-7a65-4367-b6c3-b960a6ec615f",
+      "start_time": 19.89,
+      "end_time": 20.97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's a pleasure to be here with you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "2fabec92-4534-4ab6-a5ee-f1fcec9d22ed",
+      "start_time": 21.09,
+      "end_time": 22.59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's wonderful to be with you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "2934efa6-042e-4182-8c63-5450a9829cc0",
+      "start_time": 23.16,
+      "end_time": 24.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And you have a new book out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "ddb84b81-e39f-49e1-882f-9552787ee7dd",
+      "start_time": 24,
+      "end_time": 34.62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I do, I do. American smooth. It's just out. Fresh off the presses. It feels good. I won't deny."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "3df6f7f9-2a9d-4d00-a065-c8f50375d4f7",
+      "start_time": 36.51,
+      "end_time": 42.54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, so this book literally came out of the fire in some ways."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "01162901-88f5-4f25-b29b-99fa580be983",
+      "start_time": 42.6,
+      "end_time": 55.59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In a sense, yes. It was the phoenix that rose from the ashes. We had a house fire, 1998.  Lightning struck our house and it-- beyond the fact that that's the kind of tragedy you work your"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "49e54c0a-febc-49e7-9c94-ee9147c130a2",
+      "start_time": 55.59,
+      "end_time": 70.32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "way out of, it also kind of split the work in certain ways. Things that-- I identified poems, as before the fire, and after the fire. And at that point I was about halfway through a book which has"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "ff489ee5-1241-457a-8465-96ef65235402",
+      "start_time": 70.38,
+      "end_time": 75.96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "taken a different path since then. And the path that it took turned out to be American Smooth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "6ab8fec6-6446-4ec9-a737-b80ec2cb2538",
+      "start_time": 77.25,
+      "end_time": 89.85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I began, my husband and I began ballroom dancing because of the fire, because our neighbors said, \"Oh, get out of the ashes, buy a dress, go out. Let's have fun.\" And when we saw people dancing, we"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "c27442f6-aac2-4a2f-b344-76ef6d15acaa",
+      "start_time": 89.85,
+      "end_time": 102.33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "said, oh, we always wanted to do that. And there's a feeling of-- oddly enough of incredible freedom after such a big thing happens to you, where you feel like \"Well, I'm alive and that's all that"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "c8b2096b-241d-4dc7-89a2-307f4a11a8f0",
+      "start_time": 102.33,
+      "end_time": 104.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "matters. And I can do anything I want.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "b5775b2a-3af5-45d5-bfe7-f9ba11952b1e",
+      "start_time": 104,
+      "end_time": 121.88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, the little things fall away. And we thought, we're just gonna dance. So we did. The title, American Smooth, is a type of ballroom dancing. It's the American, more jazzy version of"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "2d701449-3278-442c-8e30-ec2db0c5035d",
+      "start_time": 122.15,
+      "end_time": 124.4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "foxtrots, tangos, and waltzes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "408023da-e86c-448f-a657-ea3558fb2d61",
+      "start_time": 124.91,
+      "end_time": 137.36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And when I first heard this term, I thought, American Smooth,  that's just representative of so much that is, for me quintessentially American. And when I say quintessentially American, I mean"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "d0b72043-2649-4858-b08e-56254372b431",
+      "start_time": 137.36,
+      "end_time": 152.81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "more African American, jazzy, the way you kind of riff on things and make them your own. And that became the overlying metaphor for the entire book, the idea of taking whatever it is, being what"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "732b69b0-5fc8-4c16-9a5e-0445f2ed62fd",
+      "start_time": 152.81,
+      "end_time": 156.14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "history hands you or a dance style, and making it your own."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "5c9d9477-aec5-4c30-a204-492afa3fdcc1",
+      "start_time": 158.22,
+      "end_time": 170.61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How-- you speak several different languages, in a matter of speaking. You speak English, you speak German, and you have an ability to pick up the nuances and intonations about their"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "471dfaab-819e-4282-ba0c-98246e8474db",
+      "start_time": 170.61,
+      "end_time": 176.07,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "languages. You're also a musician, right? You play the viola de gamba and the cello,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "ac95dd79-a8e8-4ebc-af7b-cd3e73eed216",
+      "start_time": 176.4,
+      "end_time": 195.84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and now you speak the language of dance, which has its own technical terms and its own ways of physical language. How has the language of dance influenced your poetry, and do you see it differently"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "9920bd39-01bc-46bb-8a0b-0d391d029bd3",
+      "start_time": 195.84,
+      "end_time": 200.4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "influencing your poetry than the music or the German have?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "44a8e3db-e106-4b36-b8d6-6d6c36493e9f",
+      "start_time": 201.39,
+      "end_time": 216.36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's an interesting question because I think all of us do have different languages, as you say, that we that we move by, that we think by. And it may be too soon for me to be able to answer"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "5a08a8fd-cb2f-4cc1-b744-ae950f485ba1",
+      "start_time": 216.36,
+      "end_time": 230.1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that question as well as I'd like to, except that I could say that what has happened because of dance, and this is-- is that there's more physicality involved in my life, even just because you move,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "facdfd17-b98f-411b-b2ea-16161340f95f",
+      "start_time": 230.4,
+      "end_time": 231.75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you have to move in your dance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "b882691b-a6b4-41d0-b552-b721f799bdec",
+      "start_time": 232.23,
+      "end_time": 245.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I think it also has informed the poems: that they really want to get up off the page and just walk around, strut around. So I think there's a little-- there's an energy in them that's different"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "2cdd9fe2-082c-4e6b-bd74-076511b98f58",
+      "start_time": 245.82,
+      "end_time": 247.53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "than the energy that happened before."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "67cf8b6b-b6c1-4ca9-abb1-96bd96bc7825",
+      "start_time": 248.25,
+      "end_time": 262.11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've always been, as you said, intensely musical and the poems have been intensely musical in the sense that I really do believe that if a poem doesn't sing, it has no business being a poem. It has to"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "e86a2993-e8f0-4a57-b6ff-bcbc6cfb8a7c",
+      "start_time": 262.11,
+      "end_time": 276.12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "have its own music, but it has to sing that music without any kind of shame. And I've had different kinds of music, so I think of my poems, now they're actually getting up walking around, as I said."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "69cb3d3f-bd9a-457e-86b5-1a08996ebda6",
+      "start_time": 277.89,
+      "end_time": 287.82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You've talked, you were talking in particular about Mother Love I think when you said this, but you talk about poetry being a cage whose walls you're working against with the"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "0d47b6dc-9e87-456a-97e0-6ed2fa57d33c",
+      "start_time": 287.82,
+      "end_time": 297.75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "sonnets in Mother Love and so you're feeling with these new poems that there's a difference then that is not the restriction of the cage, or is it a different type of...?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "a9788ff1-0843-45fd-a386-fd5b208f600a",
+      "start_time": 297,
+      "end_time": 306.93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's a different cage. Different cage, that's alright. I mean, musicians can tell you, they have cages all over the place-- I mean there are measures and there are bars, there are key"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "80212ec4-3294-4ddc-9cce-850c9fdaecb6",
+      "start_time": 306.93,
+      "end_time": 316.08,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "signatures and there are time signatures. And in dance there are, I mean you-- no matter what kind of dance you do, you have to dance to the music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "f0487713-fdee-4a3d-a47b-72be6e5d08d8",
+      "start_time": 318.06,
+      "end_time": 330.63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the dance, in the poems which are particularly about dance, specifically about dance in the book, I actually do try to get the cadence of the dances so that, for instance in a poem like Fox Trot"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "9392d4b2-5266-4070-9f68-af124f31dfb7",
+      "start_time": 330.66,
+      "end_time": 337.11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fridays, it tries to have that easygoing stroll-- almost lilting stroll of a Nat King Cole song."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "2e7e8b63-7ed5-43b4-8144-e8dc3b5e0122",
+      "start_time": 337.57,
+      "end_time": 351.64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Or in a poem called Bolero, which is a Latin dance that has a very long, it's a very slow and sensuous dance. The poem has a very long line, combined with two short lines so that you have a"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "2b6c0ea2-6fce-4ccd-ab99-6bb732aa57e7",
+      "start_time": 351.64,
+      "end_time": 359.77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "little snap in it. So there are different kinds of formal cages that the poems are into that imitate the music. But it's just a different kind of cage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "d2e54041-74eb-4721-926a-8e20d88fd67c",
+      "start_time": 359.79,
+      "end_time": 374.61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think that maybe cage is a, has a pejorative sound. I don't think of it that way. I mean, I think of that as just the-- it's the tennis net you play with, you know, and it's the thing you get around"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "841bb389-4467-491f-b24d-69cd4b19b95d",
+      "start_time": 374.61,
+      "end_time": 385.65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and say, hey, look, it's the basketball hoop. It's what you want to swoosh when you get through. And I think of it more as a challenge than as something that's restrictive."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "3aab3c73-5b76-463c-bffe-a437ce349445",
+      "start_time": 390.19,
+      "end_time": 405.82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You talk about the different ways that you use this term American Smooth, and what that implies in terms of being American and operating in this world. And one of the things that"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "18accc00-aba4-4088-9793-3697b64729b8",
+      "start_time": 406.81,
+      "end_time": 412.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "is a central part of the book are soldiers from World War One."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "1df06495-5ad7-4eb9-b7a6-1a6e89e547ad",
+      "start_time": 412.74,
+      "end_time": 413.31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "bdfffce2-d022-437b-bc0e-f06aa479def0",
+      "start_time": 413.88,
+      "end_time": 426.24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Could you talk first a little bit about how you became interested in these soldiers, and in particular, in the journal that you use with the poem passages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "aed716d2-df74-4936-b41b-4bc61d327efc",
+      "start_time": 428.49,
+      "end_time": 445.62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This story starts a long time ago, it-- really those poems started, oh gosh, about 15 years ago. It started with a photo that I had seen in-- and I can't even tell you where. A history of"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "5f58ca85-da90-46ec-8fdf-a2f6e971e36a",
+      "start_time": 445.62,
+      "end_time": 463.8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "African Americans where there was a beautiful photo of the Black regiments that played music in World War One. And they were marching up Fifth Avenue in a perfect formation in the victory march."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "4b2c41a5-a3b9-4831-92d2-36f1eabdd62f",
+      "start_time": 466.51,
+      "end_time": 481.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "this. And so I began-- I was curious. How was it that there was an all-black unit?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "4a0a71a8-4c5a-4430-9dd1-72fadf5b23d6",
+      "start_time": 481.51,
+      "end_time": 495.13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How did they enter the war? And the more I read the more fascinated I was. The fact is is that they were not under American command, but they entered the war under French command because the Americans"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "0a7f9c2f-cdac-4c49-a47c-72ab6e1538dd",
+      "start_time": 495.61,
+      "end_time": 510.13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "had a segregated army and didn't know how to get these African American soldiers in the American army right next to the white soldiers. And when you, it's one of these absurd situations that this"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "6d4204dc-f50f-416e-a167-a8c06ae3a916",
+      "start_time": 510.13,
+      "end_time": 511.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "country gets itself into."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "063233f8-ff8b-43cf-801e-0b2b0eb395e9",
+      "start_time": 512.29,
+      "end_time": 523.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that irony, this incredible irony that they were fighting for this war that was supposed to make the world safe for democracy, coming from a country that clearly wasn't following any rules of"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "3b0e6021-9b5a-4ef5-83ce-a6b5d155ffc7",
+      "start_time": 523.48,
+      "end_time": 536.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "democracy, and coming back to a country that still was not going to live up to its promise of democracy. All of these ironies began to gnaw at me. So that's how I became interested."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "5b1f5c68-26ba-40c2-a525-c1e7d03dffd3",
+      "start_time": 537.22,
+      "end_time": 552.76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The more I read, the more I was amazed that so little was known about these men. They were-- they distinguished themselves in combat, they got more crosses of honor from the French, not from this"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "2c0e60c6-f82e-4c5a-998d-594de611e00b",
+      "start_time": 552.76,
+      "end_time": 562.33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "country, that you could, you know, shake a stick at. They didn't have adequate training yet they went over there, and were the first to reach the Rhine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "e794e3da-e315-455c-a7fe-b22c741450f4",
+      "start_time": 562.81,
+      "end_time": 579.4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, you know, certain units like Lieutenant James Europe's band, they played jazz everywhere, and in a certain way were the goodwill ambassadors for this country in a very ironic way. So that's how"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "1f7b8f50-9cfa-4699-979d-69dd3b4ef78c",
+      "start_time": 579.4,
+      "end_time": 588.61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "it started, and then I began thinking about well, how do you want to present-- I knew that I wanted to write about them. I said, but how do you want to present this and I thought the best way to do"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "abf693eb-ceee-4d2f-b717-759ac308762e",
+      "start_time": 588.61,
+      "end_time": 592.84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "this was to-- is individuals, let each man talk."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "ffe6a83c-fd71-4c3e-a52b-ef50f423429c",
+      "start_time": 595.09,
+      "end_time": 610,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Different men from different different aspects, and the poem that you referred to, Passages, that was a wonderful situation actually because the-- I met a man who had been in one of the Black"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "15a58a8a-43b9-4d46-9ab5-90aae9c812f0",
+      "start_time": 610.36,
+      "end_time": 623.89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "regiments during World War One who lived in Tucson, Arizona. I was living in Arizona, in Phoenix at the time. And when he heard that I was doing this project, he said, You know, I have a diary, you"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "74ecd250-dad5-438d-a3fb-526a4efb2870",
+      "start_time": 623.89,
+      "end_time": 627.34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "might want to talk to, might want to interview me. I said, would I ever? Let me ask--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "e8188ee0-c425-4172-a939-1db443ce83f1",
+      "start_time": 627.76,
+      "end_time": 640.33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I went, Fred and I, my husband and I went down to Tucson and spent a wonderful afternoon with him and his wife. And, and just, and he gave me his diary. He said, 'Well, you know, I'm not going to"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "23097099-7f3a-414a-8036-83b413ea188c",
+      "start_time": 640.33,
+      "end_time": 654.37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "use it anymore,' he said, 'I remember it.' He says, 'I don't need the diary'. So Passages, this very long poem, which details his travel by ship across the Atlantic to enter into war, not knowing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "9e1415a1-91b7-404e-9d19-e2015a193891",
+      "start_time": 654.37,
+      "end_time": 661.27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "what's going to happen, is, so much of it is-- I tried to be true to what he said, his words."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "a529cb8b-e851-45a8-98e7-c3117821895e",
+      "start_time": 661.87,
+      "end_time": 675.58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The, in a way, in a certain way the innocence, the hope that he had. And in a certain way also kind of a stoicism, like, \"Okay, we're going over, I'm not going to be afraid I'm a soldier. And I'm"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "325679f0-3297-4193-8e6c-e19c83965825",
+      "start_time": 675.58,
+      "end_time": 679.45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "going to do this.\" That honor, with which he entered battle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "349b9cab-e60a-435e-a4f9-c61c05bd1bcd",
+      "start_time": 681.79,
+      "end_time": 694.06,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I see in your work several different approaches to history. There's a sort of history from an official sense, this is the story we have and let me reinvestigate the story. There's the"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "3c861e25-fb5e-448c-a62f-339bf64e787d",
+      "start_time": 694.06,
+      "end_time": 697.27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "personal history, just as you're talking about Peyton's journals."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "78d381d0-dfac-4360-918e-db6cdf109d3b",
+      "start_time": 697.57,
+      "end_time": 712.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then there's the speculative history as you're talking with the James Europe poems. That these are stories we have, images you have about James Europe, Hattie McDaniel, that we-- you reimagine in"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "a6778ba5-d219-43bb-a26f-598c84518915",
+      "start_time": 712.6,
+      "end_time": 724.06,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a sense what might have been the story of that story, or the story behind the story. In many of the poems in [On] The Bus With Rosa Parks, you look at figures in bus boycotts we don't often"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "c296545e-29de-431d-a38d-dd5566f4d019",
+      "start_time": 724.06,
+      "end_time": 724.87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "hear about,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "bdc85d3a-ec68-4a59-9b3e-4141f20ab036",
+      "start_time": 725.23,
+      "end_time": 725.68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "5c07207b-a206-41ed-9c71-44329767e13d",
+      "start_time": 725.68,
+      "end_time": 736.09,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "s well as Rosa Parks. What do you think of that intersection between those different kinds-- an official history, a personal history and a speculative history? How do you-- do you"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "2a863777-4763-4f37-a3be-6a40f0f7a614",
+      "start_time": 736.09,
+      "end_time": 739.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "consciously work with those? Or do you find yourself working with them?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "c071022e-a09f-4433-b67c-49d5841c1a3d",
+      "start_time": 740.23,
+      "end_time": 753.85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Probably both of those things. I consciously work at them, those intersections, because I find them fascinating, where the History of the capital H intersects the small, the lowercase"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "f662332d-9845-417e-ac66-e9158e011975",
+      "start_time": 753.85,
+      "end_time": 760.75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "history. But I also find it creeping up on me. I think we all experience history on all of those levels."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "a0866cf9-f15b-4d30-b259-d58a14ca1634",
+      "start_time": 760.93,
+      "end_time": 774.58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "'s the talk, you know, on the street, and then there's the front each of us puts up which is another level of personal history, but still it's already a revision of history. And then there's the"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "1178b9ff-3a8b-497e-909c-0424e96b8230",
+      "start_time": 774.58,
+      "end_time": 791.74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "official history and-- which is whatever gets written down and lasts. I think, as a Black woman I from a very early age was aware of the ironies and the discrepancies, let's say, between history as I"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "530e989b-b062-43cf-bc2e-4f5cc887d03f",
+      "start_time": 791.74,
+      "end_time": 794.71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "experienced it, and history as it was told."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "78377676-b771-4b8f-a252-31360f6d29f0",
+      "start_time": 796.12,
+      "end_time": 807.85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So that makes-- in the, you know, the words of DuBois, you know-- and that gives you that binocular vision when you're not in the mainstream, but you know of the mainstream and can do the mainstream"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "a41b16c7-f30b-4c9b-8c70-ec9de63309a1",
+      "start_time": 807.85,
+      "end_time": 824.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "if they asked you to do it. And all of those things I find just fascinating. And I also think that's the point where we can be most aware of the ways in which we negotiate life. From the most"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "6f78a82d-bf36-4ee2-873d-77e544eeb247",
+      "start_time": 824.56,
+      "end_time": 833.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "innermost feelings to the outward presentation. So I'm at that intersection, at that crossroads, and I love it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "8b35f3b0-9f3c-4187-b1db-9f89a5ea8315",
+      "start_time": 835.45,
+      "end_time": 852.37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You said before that when you were born, coming, sort of, too young to be really actively in Vietnam or in the Vietnam protests or actively in the Black Arts Movement, but old enough to"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "d1578967-255f-46f2-80b4-3897d8d7c823",
+      "start_time": 852.4,
+      "end_time": 866.41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "be impacted by it and to sort of be aware of what was going on and following it has affected who you are as a person as an as a poet. Do you think that affects some of this, of what you're talking"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "b424a3ee-575c-4edb-a17c-8be0d428af2a",
+      "start_time": 866.41,
+      "end_time": 869.56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "about of where and how you look at history and write about it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "001f1a2a-31c1-489c-9885-f740647cdf54",
+      "start_time": 871.72,
+      "end_time": 895.66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, it does. Because I was 17 in 1970, I'm just trying to figure out the numbers, but I was at that point, you know, the riots in Watts happened five years before that. I was aware of them"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "667b7ace-afdb-4e5a-8c39-65a25ae7c01f",
+      "start_time": 895.9,
+      "end_time": 906.61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and knew about them. Obviously, I was 12 years old, I couldn't really, you know, I couldn't really actively engage in it. I listened to the adults as they talked about things."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "6255f5cb-bf2c-4cf5-81e0-d9dc05eac9c5",
+      "start_time": 908.23,
+      "end_time": 923.56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think, for a large part of my life when I was growing up, I felt that I was watching history occur, and wanted to get in it, but just kind of watching it. I remember on my 10th birthday... No, my"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "2d68d9da-8c64-4648-ad14-1df4e3e1a52c",
+      "start_time": 923.56,
+      "end_time": 937.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "11th birthday, there was a march on Washington. And we went down to Washington and my father marched in it, you know, and I was in my cousin's house watching on TV. You know, and so there was always"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "73756e91-b3f0-4c09-9064-64663acf005f",
+      "start_time": 937.15,
+      "end_time": 940.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "those kind of frames that I was looking through."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "33dba54c-d426-4377-9a15-96414a000784",
+      "start_time": 941.44,
+      "end_time": 957.91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think that, yes, it did have a great influence that I was too young to go out on the streets and protest. It also sets me though to questioning and I think every human being questions themselves"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "21579dd2-5783-4bc9-9fda-d0f667622b52",
+      "start_time": 957.91,
+      "end_time": 960.28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "at some point about things like this, but."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "4d98d70c-c6c4-42f7-bf77-b0e51b5b7750",
+      "start_time": 960.73,
+      "end_time": 972.94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, if I had been old enough, would I have gone out or not? You know I always ask, what-- would I have been the person to stay on the bus? Would I have been the person to get arrest-- you know, how"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "894dfb12-4b0b-40d1-a477-ac4df08f5467",
+      "start_time": 972.94,
+      "end_time": 983.62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "much do we imagine that we would do something and how much are we-- will we really be ready to put it on the line? And that is, of course, what's happening in the book On the Bus With Rosa"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "0fa9f40e-9ce7-4ac7-8016-ab47e1a996ca",
+      "start_time": 983.65,
+      "end_time": 996.82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Parks is kind of questioning, you know, would we have been ready to do that? Would each of us have been ready to do that? But I think that being on the sidelines perforce when I was growing up"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "feba9473-1db8-41c4-8ef7-904c85de2682",
+      "start_time": 997.21,
+      "end_time": 999.46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "made me think about that, perhaps earlier than some."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "3c5562f6-e966-4caa-a4a5-13529ff272df",
+      "start_time": 1001.07,
+      "end_time": 1004.58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you think you were too young to have gone on the march, or do you--?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "d8d68225-f10b-4448-b7fc-0c06320386ca",
+      "start_time": 1006.43,
+      "end_time": 1016.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I remember when I was 11 years old and watching on television, I had wanted to go on the march in Washington and my cousin said, 'Oh, you're just young, you're too young. You know, you"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "a19f4f9c-e21e-4df7-84cf-94f9705fc023",
+      "start_time": 1016.3,
+      "end_time": 1020.29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "should just stay here.' I wanted to do this, I really felt I wanted to be part of that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "a0ed6741-86a3-4f8c-ad1e-8bacc36b8171",
+      "start_time": 1022.42,
+      "end_time": 1038.65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I don't know if I was too young, in-- when I was graduating from high school to have done something. And Watts was over in California, and I was in, you know, Ohio. So I mean I think that I was"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "a094cba8-f7a7-471f-9fc7-2eb29998a243",
+      "start_time": 1039.37,
+      "end_time": 1044.98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "spared that choice. Let's put it that way. Mmm Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "7f1751c3-0000-490b-a432-b8af193bff2c",
+      "start_time": 1045.91,
+      "end_time": 1055.99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let's talk a little bit about being spared the choice of-- I would imagine that part of what your father's idea of not taking his 11 year old daughter to the march was the potential for"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "c5245c41-2bb0-442c-9812-4f2403de7b96",
+      "start_time": 1055.99,
+      "end_time": 1056.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "danger."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "84d27f4e-f9dd-41c8-886a-21ecf37624a3",
+      "start_time": 1056.53,
+      "end_time": 1057.01,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "04ea9ba2-7fcb-48c0-879d-24187b22e007",
+      "start_time": 1057.04,
+      "end_time": 1072.04,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the potential for harm coming to you. And in many of your poems there's always this potential for violence, this sort of barely masked sense of destruction or potential for, just,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "97de3374-e9c1-4d6d-abdc-0969aa26e644",
+      "start_time": 1072.07,
+      "end_time": 1085.42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "disruption. And you even speak about it in the epigraphs to one poem where you say that our heart is forged out of barbarism and violence, and that we learn to control it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "c4456cfc-67ea-4749-bc63-30dde737667d",
+      "start_time": 1086.83,
+      "end_time": 1101.53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can you talk about that way that that tension between the potential for violence and the decision not to act in violence is coming through in your poems? I'm thinking in particular perhaps of"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "27c33440-6ae8-4077-8bc9-8c6cff907eba",
+      "start_time": 1102.19,
+      "end_time": 1104.11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Meditation at Fifty Yards."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "e49d4a34-5021-425f-887b-0dc001bc60cc",
+      "start_time": 1104.11,
+      "end_time": 1120.55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Moving Target. Let me say first that that idea of mastering the potential for violence, was, in a certain way, the way I was raised. I was raised in the non-violent tradition, I think in"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "798a0a7d-0a29-4aad-a962-20de528aa64a",
+      "start_time": 1120.55,
+      "end_time": 1132.37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the sense that you don't let them see you sweat. You know, your enemies. You don't let-- that if you explode in violence that they've won in a way. What you do is you get better than they are and you,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "a6cd3b88-30b4-4c5b-83cf-f2d020bdcf0b",
+      "start_time": 1132.43,
+      "end_time": 1133.66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you know, and you work at it that way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "e49c8a16-1bbd-4729-a4f7-9e60005a4c4b",
+      "start_time": 1133.96,
+      "end_time": 1150.43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, I think there are good things and dangers you said about either approach, but this is how I was raised. And being naturally shy, it was actually a path that I could, could work very well I think"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "66ce00fb-235a-4a71-881d-5fc981f79527",
+      "start_time": 1151,
+      "end_time": 1152.23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and feel good in."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "7e2ce8ee-9713-4e65-9c0c-161540f25d94",
+      "start_time": 1154.3,
+      "end_time": 1177.19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I believe that my poems work well when they have that violence, just right under the surface ready to burst. As if they're, that it's more frightening, more threatening to feel that it is right there"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "0c2a7f79-988b-4072-81ed-a47d9a9361db",
+      "start_time": 1177.19,
+      "end_time": 1182.71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "under this polite, contained exterior, okay?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "b1c62cf1-041a-4ec5-ae40-1987d41f5c51",
+      "start_time": 1182,
+      "end_time": 1198.41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The poem Meditation at Fifty Yards, Moving Target is a poem about guns. And it's a poem about firing guns and the very eerie pleasure that that can give but also the danger of that. And in that"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "ab95a8c1-e1f2-4d70-b52e-5b3bfe9706a0",
+      "start_time": 1198.41,
+      "end_time": 1211.88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "poem, because it is the idea of guns and target shooting and gun control is such a, let's say very bristly topic, you know, in this country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "0f90ed2f-f3b7-4a9d-94b9-124ca75378f7",
+      "start_time": 1212.84,
+      "end_time": 1223.85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Everyone has an opinion and immediately our defenses raise up, or our protests. And I wanted to circumvent all of that and kind of sneak in and get at it. Because when I, my-- the personal story"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "f092766b-ef0d-446a-a91f-34dbeade56c5",
+      "start_time": 1223.85,
+      "end_time": 1236.99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "behind that is that my husband and I began to take up target practice. A friend of ours had said you need to know something about guns for self defense, and at least to know about them. He was a"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "f62e9a60-ce94-4f65-9b92-d5f503ad2198",
+      "start_time": 1236.99,
+      "end_time": 1244.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "retired general in the army and so he started out from the safety point, here's what you have to do, and this is what you know [inaudible]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "1f489ff4-8cbb-4368-8ac3-6c9c8cbbb531",
+      "start_time": 1246.47,
+      "end_time": 1257.75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As we began shooting these guns, and I was, of the guns, \"Forget it, I don't want a gun. You know, this is terrible, it's a horrible thing.\" And then I began to shoot this gun and I realized, well,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "a697069a-81de-4200-89d2-512a06f864e2",
+      "start_time": 1257.78,
+      "end_time": 1269.84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you know, there's something very interesting going on here, because there's an immense pleasure, that one can get out of shooting a gun. Incredible sense of power and possibility."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "f645e886-b185-4409-b2d1-eb89ff5ae75c",
+      "start_time": 1270.11,
+      "end_time": 1284.33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, I could sit here and I could deny those thoughts and say, No, this is bad, this is wrong, or whatever. But that doesn't get rid of the sensation. And I think it's also really important to"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "c152cd11-d63c-433b-a844-e7b8c113bb3a",
+      "start_time": 1284.33,
+      "end_time": 1294.92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "acknowledge these kinds of feelings that come up in us if you're going to understand anything about it. Also, it's a wonderful thing to be able to hit any kind of target. And I'm not even talking"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "69c37683-b591-40ef-a675-a87da5aeb6c0",
+      "start_time": 1294.92,
+      "end_time": 1297.23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " guns, I'm talking about all sorts of targets that one hits."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "972441fa-7015-4ea9-a01a-8e48c15d0434",
+      "start_time": 1297.48,
+      "end_time": 1308.46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So that started that poem. But I also wanted to get into that poem the sense of, well, look. Look at the beauty of this, look at the beauty of this name, Glock, or this name, Keltec. Just think about"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "52febce8-a664-43a1-9b1b-40acb508dbc7",
+      "start_time": 1308.46,
+      "end_time": 1320.04,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that. Now, in the middle of all that beauty, this thing can kill. And it can penetrate walls. And it can, you know, you can be defending yourself and end up killing someone in the next room because"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "8aefc634-a154-4dbc-a30c-944cbe8aab2b",
+      "start_time": 1320.04,
+      "end_time": 1325.32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you shot at the burglar, realize that that kind of power unleashed the danger of it as well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "50ca40fa-9ac9-46e9-87a7-73b9ba56ddff",
+      "start_time": 1325.68,
+      "end_time": 1337.26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not only the beauty, but the danger. Not only the danger, but the beauty. Both of those things. So that by the end of the poem, I realized I had to talk from the point of view of the bullet, which is"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "c8830e59-479a-4ff6-933e-a09c9d64649b",
+      "start_time": 1337.29,
+      "end_time": 1358.53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "kind of a strange thing to do. But there is something unimaginable about how fast and how single-minded a bullet is, and how completely without right or wrong, the bullet. It moves. So to go into the"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "260405a7-6f96-460c-b459-5af9f2167e8e",
+      "start_time": 1358.53,
+      "end_time": 1366.39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "voice of the bullet was something that I really enjoyed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "79a0f0fc-fa75-455f-a692-4dadfedf2370",
+      "start_time": 1366.96,
+      "end_time": 1380.91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It frightened, it scared me to death. But it also-- I also felt like, that, to get that sense of that bullet moving so fast, faster than thought in a way. But with an absolute-- it's pure body, a"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "fe26db07-b304-470d-a708-a8b783ad7748",
+      "start_time": 1380.91,
+      "end_time": 1387.99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "bullet. It's got its physical sentiment, it takes the body with it, you know, as it barrels through."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "e9ab08c7-6f47-4aa8-947d-9ae628938786",
+      "start_time": 1388.47,
+      "end_time": 1414.81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that kind of violence done in a restrained manner is to my mind more penetrating, and I'll use that, you know, with the pun intended, than an outburst of protest against it. Because a protest and"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "f1a18437-89b2-428e-82dd-8e44dd3f8104",
+      "start_time": 1415.14,
+      "end_time": 1426.78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "they're all good, too. But that only convinces the ones who already believe it. You know, we're preaching to the choir then. It's better to sneak in there and convince someone before they know that"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "0052dd83-b9b6-40c7-b53a-e5c0b6c936de",
+      "start_time": 1426.78,
+      "end_time": 1428.1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "they're being convinced."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "85c2de8c-fa83-486a-a984-806bb5e78b36",
+      "start_time": 1430.07,
+      "end_time": 1440.33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That poem, like many other of your poems, is in several parts. Why do you think you find yourself working from several angles?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "7e469a64-af84-4d85-8214-639f907a64b0",
+      "start_time": 1441.5,
+      "end_time": 1451.61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I do find myself working from several-- I noticed that the other night when I was giving a reading that, I said, Gosh, a lot of these poems are like four parts or something like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "5baee576-317f-4b0e-adbe-37c811a8c0fe",
+      "start_time": 1453.65,
+      "end_time": 1465.74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it comes from again, it's that idea of being in the official history and then getting behind the history. There are many sides to truth, there are many facets to truth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "ff873c0f-082a-46d5-9583-c1fde996f1c8",
+      "start_time": 1467.54,
+      "end_time": 1481.31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I am fascinated by exploring a situation from many different angles. Sometimes as with Thomas and Beulah, from the angle of the male point of view of the marriage, and then the female point"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "0c98828d-a885-48d4-aa6b-cdd4336f29b0",
+      "start_time": 1481.31,
+      "end_time": 1492.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "of view of the marriage. But in the case of Meditation at Fifty Yards, Moving Target, it's: let's look at it from Safety First look at it from gender, you know, men versus women and who's the"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "0fc79388-66b6-430b-8578-7b0e9b4eea82",
+      "start_time": 1492.2,
+      "end_time": 1495.35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " shot. Let's look at it from the point of view of the bullet."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "11bb779d-9bee-4738-b675-d554ca7f96b9",
+      "start_time": 1495.35,
+      "end_time": 1508.97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let's look at it from the very act of squeezing the trigger and how accurate and controlled an action that is, if you really want to hit something, compared to the idea of, 'Oh, man, we're just gonna"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "ac825ecc-987e-4eaa-9e40-ca6068cbae3d",
+      "start_time": 1508.97,
+      "end_time": 1524.84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "shoot it up', you know. So those different angles, I think, in a way, enable-- well first of all they enable me to explore the many different sides of a topic to try to give a, if not a 360 degree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "7f76266d-d72a-4666-97e0-375a76098c4c",
+      "start_time": 1525.89,
+      "end_time": 1530.48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "view of it, at least a three dimensional view of it by getting different angles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "25482276-e78b-4224-8927-1e4f3e5633f4",
+      "start_time": 1530.87,
+      "end_time": 1545.54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For the reader of the poem, or the one who listens to the poem, I hope that it also gives them a chance to take a breath, and then plunge in and look at it again. To contemplate the moment thoroughly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "b7ac80a4-48f1-4a4f-bc14-a15bee91badd",
+      "start_time": 1546.44,
+      "end_time": 1550.97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And to do it by different angles gives one an opportunity to do that thoroughly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "80698fb7-32d9-4aaa-bdbb-f8cbd9fa9e67",
+      "start_time": 1551.75,
+      "end_time": 1562.1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So do you sit down and say, I'm going to write a poem in four parts? Or do you write one part? And then say, this is finished and figure out a new angle of approach?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "74cfe99c-db1a-4377-b486-f4baad8ecd07",
+      "start_time": 1562.91,
+      "end_time": 1575.99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's a good question. I can say, first of all, that I never sit down and say I'm gonna write a poem in four parts. On the other hand, it's rare that I will sit down and say-- and start"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "f2c877f1-1018-4ab8-9775-65a7706c43f0",
+      "start_time": 1575.99,
+      "end_time": 1583.94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "writing and then say, Oh, it isn't finished. At some point I realize it's going to be more than one part, I can't tell you how many."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "11377230-c167-4aa5-be6d-cb9317040401",
+      "start_time": 1584.32,
+      "end_time": 1599.35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That poem in particular, I knew that there were two parts. Which was the first part which is called 'Safety First' and talks about how you should handle the gun. And I knew that there was going to be"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "abaf901d-eb21-4c9b-8565-493f50db5366",
+      "start_time": 1599.35,
+      "end_time": 1611.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a part about-- the third part, which is gender politics, which is-- because one of the things that I was fascinated by, I had not known about guns, was that women tend to be better shots than men"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "2f8d9d08-2f06-4c0b-99fd-beaac12b06ce",
+      "start_time": 1611.86,
+      "end_time": 1619.18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "because our heartbeats are slower. And so we actually have less shake."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "d48efdec-9c67-4459-a9cb-7c32f0816bb5",
+      "start_time": 1620.23,
+      "end_time": 1632.11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When you get down to a heartbeat, and that's kind of, and so-- but actually, doing that part, led to the fourth part, the part about the bullet, which was the last thing that I thought I'd ever do,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "8f34b8fb-b9df-456d-92cc-f7da6bfb08d8",
+      "start_time": 1632.62,
+      "end_time": 1646.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "was write from the point of view of the bullet. But it led to that. By the time I got to the point where, oh, if it depends on a heartbeat, whether someone, you know, if a shot is really accurate, how"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "0448ce81-0160-4061-a653-8ee82b308ff5",
+      "start_time": 1646.15,
+      "end_time": 1660.61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "close is that to pure body? How intimate is that? And then I thought, oh, gosh, I've got to do this bullet. This is, I thought people will think I'm out of my mind, you know? But, oh well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "79fabada-c67f-4c82-8c42-f6de2ab58b00",
+      "start_time": 1663.47,
+      "end_time": 1681.89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've heard you speak before about the-- your training again, is growing up to be polite. And, and I hear it translated in what many critics say about your work, the defining feature"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "d3bc2666-8fdf-46d1-8d44-9acbdbae71a5",
+      "start_time": 1681.89,
+      "end_time": 1693.71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "being the reserve in your work. But you say that you need to struggle against that politeness, and I would imagine your very public roles as the US Poet Laureate and now the Virginia Poet Laureate"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "80f041ec-a0b6-4269-95b0-34ce34dd4400",
+      "start_time": 1693.74,
+      "end_time": 1699.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "means that there's this public eye that you have to worry about: people are going to think I'm crazy writing about a bullet."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "f2eb88ef-250e-493f-bb10-141a503f6841",
+      "start_time": 1699.5,
+      "end_time": 1699.77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "8369b762-0f17-4f13-ab37-1498095a14e5",
+      "start_time": 1700.58,
+      "end_time": 1712.28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do you find yourself in the actual day to day practice of writing the poem working with and against this politeness or this reserve?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "0bfe4609-146c-42e0-890d-5246afae7caa",
+      "start_time": 1714.22,
+      "end_time": 1733.54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When I'm writing, I think the only thing that I am concerned about is being absolutely honest. I don't believe in reserve when it comes to exploring whatever the topic is, whatever that"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "1e87d93b-8e90-4004-b7e4-0e5e0812b0cd",
+      "start_time": 1733.54,
+      "end_time": 1744.07,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "moment is, as far and as crazily as it will take me. I may say to myself, oh, people are gonna think I'm crazy writing about a bullet, but I'm gonna write about that bullet. You know, and I think, Oh"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "d2fdffcd-a1f9-4789-82a7-ae72ab8a9eb2",
+      "start_time": 1744.07,
+      "end_time": 1745.99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "well, they might think I'm crazy or maybe they won't."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "060b7cd7-bc5a-4088-802a-7c40f3ba902f",
+      "start_time": 1747.34,
+      "end_time": 1759.22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In other words, I don't have any choice in the matter, as an artist, I feel, about whether I'm going to write about something or not or what-- and how deep I'm going to write about, I'm gonna write as"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "db5592fe-b93f-408d-9aad-f1bdd4fff842",
+      "start_time": 1759.25,
+      "end_time": 1770.14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "deep as it needs to go. The reserve comes in the way that it's expressed, or let's say the craft of it, whether it-- what works for me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "baf5494d-c386-4aed-af34-b349141a111d",
+      "start_time": 1770.81,
+      "end_time": 1787.91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think that I do struggle-- struggle's the wrong word, but I do push against what for me is a sense of the way a poem should be for me, and what works for me. And then I push against that, that"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "907a2767-7572-42b8-bb41-c805fa91a677",
+      "start_time": 1788.66,
+      "end_time": 1792.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "more cadenced and that more polished surface."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "72ceb663-9652-4298-bc06-1bbe00037fb8",
+      "start_time": 1792.77,
+      "end_time": 1816.68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think that I do struggle-- struggle's the wrong word, but I do push against what for me is a sense of the way a poem should be for me, and what works for me. And then I push against that, that"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "13f143a6-03b4-4963-97b2-9cb2b7d5e1c7",
+      "start_time": 1818.03,
+      "end_time": 1820.28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "more cadenced and that more polished surface."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "4c899287-b196-49ca-8f0e-cce57a9b3bb9",
+      "start_time": 1822.74,
+      "end_time": 1840.59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think that for me the struggle comes as an artist between exploring a looser line, exploring a line that tends to-- or let's say a more rambling line, something that tends to be more exuberant,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "5777208b-c1a2-4b0a-80ad-cc5063b6d08f",
+      "start_time": 1840.95,
+      "end_time": 1853.52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "in that case, something like the Hattie McDaniel poem, which is not one sentence, but feels like one sentence, it just goes on and on and on and it's a kind of a rant and a wonderful sense, was a"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "9a1c4212-cf10-46ba-995a-78aa5e27124a",
+      "start_time": 1853.67,
+      "end_time": 1857.33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "joyous release from me artistically, to be able to do."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "b4e6a721-3a8b-4e74-ae15-bf0fe1425fae",
+      "start_time": 1859.7,
+      "end_time": 1885.47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because it's not like a lot of my poems. Yeah. I don't find, I don't find it problematic, this reserve, but it is the thing that I work, it's my thing to work against. You know, it's my thing to keep"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "3ec47246-4cd4-4380-abd8-fe4ebe7fb488",
+      "start_time": 1885.47,
+      "end_time": 1901.52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pushing, keep pushing, keep reminding myself, Okay. Let's, you know, you try to be reserved editing yourself, let's see if you can let it go a little bit, let's be a little messier. Let's-- so, that's"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "d56f4abf-0252-4193-9f75-ffe38770fb66",
+      "start_time": 1901.52,
+      "end_time": 1902.06,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the way it is."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "e8c1afb3-ec81-4b09-80ff-e4fe134d6826",
+      "start_time": 1904.58,
+      "end_time": 1911.81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille, we've got about three minutes left, three or four minutes. So we need to be sure and touch on the conference themes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Speaker Unknown"
+        }
+      ]
+    },
+    {
+      "uuid": "201546b6-93a1-4725-95ed-cccdce0a7dcf",
+      "start_time": 1912.23,
+      "end_time": 1914.93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I will be sure to touch on the conference themes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "48fc0536-3123-4453-847f-e5587ecfada6",
+      "start_time": 1924.26,
+      "end_time": 1933.92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do you think that your poetry has influenced poets and thinkers and others?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "b4745d07-db1f-4189-bda8-44b11680be8b",
+      "start_time": 1935.03,
+      "end_time": 1952.28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whoo. That is a very big question. It's so hard-- Well, you know, gosh, it's also common to think that my poetry would influence others."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "88dacb35-fb40-4ddf-a355-fb744e0b12e1",
+      "start_time": 1952.31,
+      "end_time": 1975.17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think that, if anything, I'm part of a tradition that is still growing among African American poets, of having the freedom to write about anything we choose without it necessarily having to be about"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "51f2f696-c682-4561-99ea-daad11da5c21",
+      "start_time": 1975.44,
+      "end_time": 1978.77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "being Black, whatever one imagines by that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "a38ef9a6-6504-4a06-9886-403c8fd9d9ae",
+      "start_time": 1979.13,
+      "end_time": 1999.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But emanating from the entire person, and having race, gender, age, all of these things emerge in the poems in the work as they are necessary. As it colors the life without trying to make a point of"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "7e3a15fb-2442-4ceb-bd3d-73d1fda13771",
+      "start_time": 1999.86,
+      "end_time": 2000.01,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "67ebe0eb-83a2-4100-8c35-f4e20ab91122",
+      "start_time": 2000.91,
+      "end_time": 2017.71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I hope that there's some influence among poets of my generation, I think, on younger poets, that they would not feel the burden of explanation. I call it the burden of explanation in that it's feeling"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "f090e221-7a15-4b34-a2a3-166f4a299bc8",
+      "start_time": 2017.71,
+      "end_time": 2029.77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that as a quote unquote 'minority', and I hate that word, but as it's not in the mainstream, having to explain certain cultural references."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "50a748f7-5020-442b-90e9-21ed65bbfa14",
+      "start_time": 2029,
+      "end_time": 2043.13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, we have Norton anthologies, where they have footnotes, and they tell you what Keats said, and all this, you know, what this word means. And no one thinks anything of looking up all the"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "1f8685e9-b2d7-4227-8952-99bb325328bd",
+      "start_time": 2043.13,
+      "end_time": 2055.16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "footnotes to The Wasteland. And yet, they would expect of most contemporary African American writers, someone could expect that they would tell them what Dixie peaches in the context of the"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "613e555e-90b2-46c5-8434-f00c86cbcbbe",
+      "start_time": 2055.16,
+      "end_time": 2064.55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "poem, what I'm saying is to be able to say Dixie peach in the poem, and know that the audience will look it up, will be interested enough to look it up and won't say, well what does that mean?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "bf8de070-72fa-4127-b26f-cfb2d0d91d9c",
+      "start_time": 2064.67,
+      "end_time": 2078.89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, that's the burden of explanation. And I think the more diverse the writing becomes, the more it touches on all aspects of life and just-- as if it's the most natural thing in the world, the"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "fdfe85b0-fdc1-4f9a-82bc-1a0c297344e2",
+      "start_time": 2078.89,
+      "end_time": 2087.83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "more that burden will be relieved. And I do think that some of that has come out in my work for others."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "6c562d65-cf4b-420b-b24f-3485c9186f0e",
+      "start_time": 2088.79,
+      "end_time": 2093.77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So do you see African American poetry moving in any particular directions?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "6f66a1ec-24ed-4a97-9d21-7d6d50441655",
+      "start_time": 2095.09,
+      "end_time": 2108.53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I see it moving in every direction you can look at and I think that's fabulous. I do think it's fabulous. Yeah, I mean, you have-- and I think that everything from performance poetry to"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "ce8ae34c-ce99-4c76-a441-884c983fa0cd",
+      "start_time": 2108.92,
+      "end_time": 2122.87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "slam poetry to sonnets and villanelles. You see it all. And we're using all of the musics that are out there. And that's the way it should be. It's really the way it should be."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "ff0c1f93-127e-4880-809d-23bd40ee9984",
+      "start_time": 2128.89,
+      "end_time": 2132.43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ti-- I mean if you have one more question. Otherwise... it's up to you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Speaker Unknown"
+        }
+      ]
+    },
+    {
+      "uuid": "8f7e99d7-fe51-458a-b200-23e987935ca1",
+      "start_time": 2134.56,
+      "end_time": 2134.77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "36 minutes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Speaker Unknown"
+        }
+      ]
+    },
+    {
+      "uuid": "35f5901b-d85f-44c8-af3d-bbd4ccfd33d0",
+      "start_time": 2134.77,
+      "end_time": 2135.01,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "36 minutes?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "c686691c-6ef9-45a5-bad8-d1f17f4fa46e",
+      "start_time": 2135,
+      "end_time": 2139.83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhmm. Is there anything else you wanted to ask?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Speaker Unknown"
+        }
+      ]
+    },
+    {
+      "uuid": "15a005d9-0738-473e-849e-c759f3d0e0ff",
+      "start_time": 2139.87,
+      "end_time": 2140.38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "c2a79f43-b2de-43e8-96ad-083b9b99f620",
+      "start_time": 2143.62,
+      "end_time": 2147.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I thank you very much for staying and talking."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "071e39f1-4d90-4123-9252-efa3bb07ddcd",
+      "start_time": 2147.79,
+      "end_time": 2149.83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are welcome. It was a pleasure Camille."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "1b7b8b8d-a6d4-4105-b5ea-72c26beb560f",
+      "start_time": 2149.83,
+      "end_time": 2153.43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was, it was. I could stay and talk for hours and hours."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "fc33a8b8-3e50-4a90-bd4c-4e819c3372e0",
+      "start_time": 2153.73,
+      "end_time": 2154.87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That would start the glow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "a50ebdbb-2dd6-4745-82d3-74b8e7035a5d",
+      "start_time": 2157.42,
+      "end_time": 2160.66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Inaudible] if you could just talk about 20 seconds, you know, we're just getting some cutaway shots."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Speaker Unknown"
+        }
+      ]
+    },
+    {
+      "uuid": "39638050-9708-4084-ac32-5d21dcd2d747",
+      "start_time": 2160.66,
+      "end_time": 2161.68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, cutaway shots."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "22fe9a6f-fd2e-45df-890d-4c2a4041fb21",
+      "start_time": 2162.16,
+      "end_time": 2162.85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[inaudible] don't talk at once."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Speaker Unknown"
+        }
+      ]
+    },
+    {
+      "uuid": "79c65bef-d093-4d9e-b89c-d01faeacaae6",
+      "start_time": 2163.54,
+      "end_time": 2164.53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, cutaways."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "6b7bd286-2c45-4dc2-844f-9ff91541f1e0",
+      "start_time": 2165.04,
+      "end_time": 2167.62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's the newscaster stuff when you wonder at the end what they're talking--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "47c78e08-ecfb-40ae-856a-58309815892b",
+      "start_time": 2167,
+      "end_time": 2171.83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right, yeah, they're going \"peas and carrots, peas and carrots.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    },
+    {
+      "uuid": "b4105ab2-a073-4df3-8654-73bf550d6723",
+      "start_time": 2173.89,
+      "end_time": 2192.7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well I was actually interested in that idea of the the directions and the many things that poetry can do and ways that it can do it in terms of your response to-- your response to the"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "9fc2eee2-161d-4dcf-a3c7-1f0ef8145184",
+      "start_time": 2192.7,
+      "end_time": 2195.52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "responses to Garrison Keillor's anthology."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Camille Dungy"
+        }
+      ]
+    },
+    {
+      "uuid": "a7520d2c-00e6-477d-832a-dceefb777258",
+      "start_time": 2197.5,
+      "end_time": 2203.56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhmm, yeah, yeah. That just, that anthology, that made me so mad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Rita Dove"
+        }
+      ]
+    }
+  ],
   "set": "Default",
   "event_id": "7415830f-7110-43c4-95e7-1faa10870304",
   "source_id": "95ccf0a6-34cd-47f2-9ace-7b97c9b729ca"
