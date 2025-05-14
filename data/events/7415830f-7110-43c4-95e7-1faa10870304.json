@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "95ccf0a6-34cd-47f2-9ace-7b97c9b729ca": {
+      "label": "FF0019",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://apps.lib.jmu.edu/audiannotate/FF019.mp4",
+      "duration": 2209
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "FF0019",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Rita Dove and Camille Dungy discuss Dove's new book American Smooth (2004), before moving into a broader discussion of her work and life."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-14T19:08:14.614Z",
+  "created_by": "JMU-AudiAnnotate",
+  "updated_at": "2025-05-14T19:08:14.614Z",
+  "updated_by": "JMU-AudiAnnotate"
+}
